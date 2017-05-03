@@ -1,6 +1,8 @@
 # GIT Tutorial
 > ## add
 
- -[-u]
+ - -u
  
 >## commit
+
+- --amend
